@@ -2011,6 +2011,9 @@ body.is-dark .link-hover-path {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+.pt-24 {
+  padding-top: 3.5rem;
+}
 .py-24 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
